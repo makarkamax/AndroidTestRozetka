@@ -13,7 +13,7 @@ import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 public class RozetkaTest {
-    
+
     public static URL url;
     public static DesiredCapabilities capabilities;
     public static AndroidDriver<MobileElement> driver;
